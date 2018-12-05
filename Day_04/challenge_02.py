@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 
 """
-Advent Of Code 2018, Day 4, challenge 1
+Advent Of Code 2018, Day 4, challenge 2
 https://adventofcode.com/2018/day/4
 
 - Scan the input file which contains guards' IDs and on-duty sleeping patterns
