@@ -14,10 +14,6 @@ INPUT_FILENAME = 'input.txt'
 output = 0
 try:
 	file = os.path.join(os.getcwd(), INPUT_FILENAME)
-	with open(file) as f:
-		for line in f:
-			output += int(line.strip())
+	print(sum(int(line.strip()) for line in open(file).readlines()))
 except Exception as e:
 	raise e
-
-print(output)
