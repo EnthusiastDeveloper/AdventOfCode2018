@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 
 """
-Advent Of Code 2018, Day 6, challenge 1
+Advent Of Code 2018, Day 6, challenge 2
 https://adventofcode.com/2018/day/6
 
 - Read the input file which contains the coordinates of points in XY plain.
